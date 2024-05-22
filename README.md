@@ -12,7 +12,10 @@ Sve 4 aplikacije su dodane u Servisni Plan koji smo prethodno kreirali
 
 
 
-Nastavno na zadatak - Prijedlozi za poboljšanje sustava
+Nastavno na zadatak
+
+Prijedlozi za poboljšanje sustava
+
 Kreacija NSG-a
 1. Implementacija firewall ruleova radi osiguranja sigurnosti baza
 2. Otežavanje pristupa bazama - Kreacija private endpointa za SQL Server
