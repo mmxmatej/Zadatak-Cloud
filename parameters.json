@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_testzadatak_name": {
+            "value": null
+        },
+        "sites_WebAplikacija1_name": {
+            "value": null
+        },
+        "sites_WebAplikacija2_name": {
+            "value": null
+        },
+        "sites_WebAplikacija3_name": {
+            "value": null
+        },
+        "sites_WebAplikacija4_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlan_name": {
+            "value": null
+        }
+    }
+}
